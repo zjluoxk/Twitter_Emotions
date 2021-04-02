@@ -76,6 +76,9 @@ This model can be used to predict how customers like the product!
 
 ![](./images/long.png)
 
+We need more data! Especially since low data quantity has significant impact on error (1-accuracy):
+
+![](./images/Capture.PNG)
 
 ## Recommendations and Future Work
 1. Gather more data: Sometimes more data improve model performance, but too much may increase training complexity by too much!
