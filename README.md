@@ -1,4 +1,4 @@
-# Pump it Up: Data Mining the Water Table
+# Twitter Emotions
 
 **Note that the description for plots and graphs are usually above the plot and graph.**
 
